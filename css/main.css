@@ -1,0 +1,73 @@
+body {
+  background: url(http://cdn.wall-pix.net/albums/art-3Dview/00000539.jpg)center fixed;
+  font-family: 'Abril Fatface', cursive;
+  font-style: italic;
+  color: goldenrod;
+  text-align: center;
+  margin: 50px;
+  cursor: default;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
+
+.titlu {
+  margin-top: 40px;
+  text-align: center;
+  opacity: 0.1;
+  height: 40px;
+}
+
+.fond {
+  height: 500px;
+  width: 350px;
+  background: white;
+  margin: auto;
+  margin-top: 75px;
+  border-radius: 20px;
+  border: 10px 10px 10px;
+  border-color: goldenrod;
+  border-style: solid;
+  background: url("http://fc09.deviantart.net/fs70/f/2012/309/7/9/minimalist_metal_wallpaper_by_malkowitch-d5k14s4.jpg")center;
+  box-shadow: 10px 10px 15px 3px gray;
+}
+
+p {
+  text-align: center;
+  margin: 20px;
+  font-size: 30px;
+}
+
+.ecran {
+  width: 300px;
+  height: 50px;
+  background: MediumSeaGreen;
+  margin: auto;
+  border-radius: 10px;
+  font-size: 35px;
+  color: black;
+  font-weight: bold;
+  letter-spacing: 5px;
+}
+
+.button {
+  width: 60px;
+  height: 30px;
+  background: BlanchedAlmond;
+  border-radius: 10px;
+  margin: 10px;
+  margin-top: 20px;
+  transition: 0.5s;
+}
+
+.button:hover {
+  transform: scale(1.3);
+  transition: 0.5s;
+}
+
+h3 {
+  margin: 0;
+  color: black;
+  font-style: normal;
+  font-weight: bold;
+}
